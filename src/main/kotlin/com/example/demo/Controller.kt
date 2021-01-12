@@ -8,6 +8,6 @@ class Controller {
 
     @GetMapping
     fun hello(): String {
-        return "Hello"
+        return "Hello v.2"
     }
 }
